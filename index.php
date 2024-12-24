@@ -241,14 +241,7 @@ if (isset($_POST["pdf"])) {
             <div class="row" id="intro-container">
                 <h2>Introducción</h2>
                 <div class="intro-text">
-                    <p>Soy un desarrollador fullstack apasionado con experiencia en supervisión de sitios web, soporte
-                        técnico y desarrollo de CRM. Mi trayectoria en empresas como Magico Mundo SAS, Egicma y Mercedez
-                        Bravo me ha permitido desarrollar habilidades técnicas robustas y un enfoque centrado en la
-                        satisfacción del cliente. Me destaco por mi capacidad para resolver problemas, mi atención al
-                        detalle, y mi compromiso con la mejora continua. Soy una persona disciplinada, comprometida y
-                        siempre dispuesto a aprender cosas nuevas tanto del entorno como de mis compañeros. Estoy
-                        buscando oportunidades donde pueda contribuir con mis conocimientos y crecer profesionalmente en
-                        un entorno dinámico y desafiante.
+                    <p>Soy un desarrollador fullstack apasionado con experiencia en supervisión de sitios web, soporte técnico y desarrollo de CRM. Mi trayectoria en empresas como Mágico Mundo SAS, Egicma y Mercedes Bravo me ha permitido desarrollar habilidades técnicas robustas y un enfoque centrado en la satisfacción del cliente. Me destaco por mi capacidad para resolver problemas, mi atención al detalle y mi compromiso con la mejora continua. Soy una persona disciplinada, comprometida y siempre dispuesta a aprender cosas nuevas tanto del entorno como de mis compañeros. Estoy buscando oportunidades donde pueda contribuir con mis conocimientos y crecer profesionalmente en un entorno dinámico y desafiante.
                     </p>
                 </div>
             </div>

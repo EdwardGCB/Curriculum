@@ -65,7 +65,7 @@ $pdf->SetFont('Arial', '', 9.39 );
 $pdf->SetTextColor(42, 57, 86);
 
 $pdf-> SetXY(100.7461  , 97.3788 );
-$text = 'Soy un desarrollador fullstack apasionado con experiencia en supervisión de sitios web, soporte técnico y desarrollo de CRM. Mi trayectoria en empresas como Magico Mundo SAS, Egicma y Mercedez Bravo me ha permitido desarrollar habilidades técnicas robustas y un enfoque centrado en la satisfacción del cliente. Me destaco por mi capacidad para resolver problemas, mi atención al detalle, y mi compromiso con la mejora continua. Soy una persona disciplinada, comprometida y siempre dispuesto a aprender cosas nuevas tanto del entorno como de mis compañeros. Estoy buscando oportunidades donde pueda contribuir con mis conocimientos y crecer profesionalmente en un entorno dinámico y desafiante.'; 
+$text = 'Soy un desarrollador fullstack apasionado con experiencia en supervisión de sitios web, soporte técnico y desarrollo de CRM. Mi trayectoria en empresas como Mágico Mundo SAS, Egicma y Mercedes Bravo me ha permitido desarrollar habilidades técnicas robustas y un enfoque centrado en la satisfacción del cliente. Me destaco por mi capacidad para resolver problemas, mi atención al detalle y mi compromiso con la mejora continua. Soy una persona disciplinada, comprometida y siempre dispuesta a aprender cosas nuevas tanto del entorno como de mis compañeros. Estoy buscando oportunidades donde pueda contribuir con mis conocimientos y crecer profesionalmente en un entorno dinámico y desafiante.'; 
 $pdf->MultiCell(96.6376 , 3.1476  , utf8_decode($text), 0, 'J');
 
 
